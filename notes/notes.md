@@ -1,2 +1,1 @@
-prin("Ive leanred today diffrence between github and termina")
-
+print("I've leanred today diffrence between GitHub and termina")
